@@ -1,0 +1,8 @@
+day;temperature;humidity;wind_speed;condition
+Monday;22;65;12;Sunny
+Tuesday;24;60;10;Sunny
+Wednesday;19;80;18;Rainy
+Thursday;21;75;15;Cloudy
+Friday;26;55;9;Sunny
+Saturday;23;70;14;Cloudy
+Sunday;18;85;20;Rainy
