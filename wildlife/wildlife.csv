@@ -1,0 +1,11 @@
+animal;habitat;population;average_weight;status
+Elephant;Savannah;120;5000;Endangered
+Lion;Savannah;85;190;Vulnerable
+Giraffe;Grassland;60;800;Endangered
+Zebra;Grassland;200;300;Stable
+Tiger;Forest;45;220;Endangered
+Deer;Forest;150;80;Stable
+Rhino;Savannah;30;2300;Critically Endangered
+Wolf;Mountain;75;45;Stable
+Bear;Mountain;40;350;Vulnerable
+Leopard;Forest;55;70;Vulnerable
