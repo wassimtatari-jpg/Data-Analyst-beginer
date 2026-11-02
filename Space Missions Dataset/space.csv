@@ -1,0 +1,11 @@
+mission;country;year;duration_days;crew_size;success
+Apollo 11;USA;1969;8;3;True
+Vostok 1;Russia;1961;1;1;True
+Apollo 13;USA;1970;6;3;False
+Shenzhou 5;China;2003;1;1;True
+Soyuz 1;Russia;1967;1;1;False
+Artemis I;USA;2022;25;0;True
+Tiangong 1;China;2011;1630;0;True
+Gemini 4;USA;1965;4;2;True
+Vostok 6;Russia;1963;3;1;True
+Shenzhou 7;China;2008;3;3;True
