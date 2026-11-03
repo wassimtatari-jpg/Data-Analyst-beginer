@@ -1,0 +1,14 @@
+animal;habitat;region;observation_count;average_weight;conservation_status
+Elephant;Savannah;North;45;5000;Endangered
+Lion;Savannah;South;32;190;Vulnerable
+Giraffe;Grassland;North;28;800;Endangered
+Zebra;Grassland;South;60;300;Stable
+Tiger;Forest;East;15;220;Endangered
+Deer;Forest;West;75;80;Stable
+Rhino;Savannah;North;12;2300;Critically Endangered
+Wolf;Mountain;East;25;45;Stable
+Bear;Mountain;West;18;350;Vulnerable
+Leopard;Forest;South;20;70;Vulnerable
+Elephant;Savannah;North;45;5000;Endangered
+Lion;Savannah;South;32;190;Vulnerable
+Panda;Forest;East;22;100;Vulnerable
