@@ -1,0 +1,13 @@
+store;department;month;sales
+Tangier;Electronics;Jan;12000
+Tangier;Clothing;Jan;6500
+Tangier;Food;Feb;4300
+Rabat;Electronics;Jan;15000
+Rabat;Food;Feb;5200
+Rabat;Clothing;Feb;7100
+Fes;Food;Jan;3900
+Fes;Electronics;Feb;11000
+Fes;Clothing;Jan;6000
+Tangier;Food;Mar;4800
+Rabat;Electronics;Mar;16000
+Fes;Food;Mar;4500
