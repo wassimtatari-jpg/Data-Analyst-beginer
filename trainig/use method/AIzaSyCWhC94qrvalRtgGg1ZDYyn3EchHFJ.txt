@@ -1,0 +1,127 @@
+# Pandas Data Slicing Practice
+
+## Project Overview
+
+This project is a practical training exercise focused on data slicing techniques using Python and Pandas.
+
+The training uses a single weather dataset containing records from different Moroccan cities between 2010 and 2012.
+
+The main objective is to understand how to select specific rows, columns, and date ranges using Pandas indexing methods.
+
+## Dataset
+
+**File:** `weather_slicing_training.csv`
+
+**Dataset information:**
+- 36 records
+- 7 columns
+- Weather observations from Moroccan cities
+- Date range: 2010–2012
+
+**Columns:**
+- `date`
+- `city`
+- `avg_temp_c`
+- `min_temp_c`
+- `max_temp_c`
+- `humidity_pct`
+- `precipitation_mm`
+
+## Technologies Used
+
+- Python
+- Pandas
+- CSV
+
+## Concepts Practiced
+
+### 1. Positional Indexing with `iloc[]`
+
+Selecting rows based on their integer positions.
+
+```python
+weather.iloc[5:12]
+```
+
+### 2. Label-Based Slicing with `loc[]`
+
+Selecting rows using index labels.
+
+```python
+weather.loc[5:12]
+```
+
+### 3. Slicing Rows and Columns Together
+
+Selecting a specific range of rows and columns.
+
+```python
+weather.loc[5:12, "avg_temp_c":"humidity_pct"]
+```
+
+### 4. Open-Ended Slicing
+
+Selecting rows or columns when the starting or ending point is omitted.
+
+```python
+weather.loc[8:18, "city":]
+```
+
+```python
+weather.loc[:15, :"max_temp_c"]
+```
+
+### 5. Working with DateTime Index
+
+Converting date values into Pandas datetime format.
+
+```python
+weather["date"] = pd.to_datetime(weather["date"])
+```
+
+Setting the date column as the DataFrame index and sorting it.
+
+```python
+date_sort = weather.set_index("date").sort_index()
+```
+
+Selecting a specific date range:
+
+```python
+date_sort.loc["2010-08":"2011-02"]
+```
+
+## Initial Setup
+
+```python
+import pandas as pd
+
+weather = pd.read_csv(
+    "weather_slicing_training.csv",
+    sep=";"
+)
+
+weather["date"] = pd.to_datetime(weather["date"])
+```
+
+## Learning Outcomes
+
+By completing this training, I practiced:
+
+- Understanding the difference between `iloc[]` and `loc[]`.
+- Selecting rows and columns using slicing.
+- Understanding inclusive and exclusive slicing boundaries.
+- Using open-ended slicing.
+- Converting string dates into datetime values.
+- Setting and sorting a DateTime index.
+- Selecting records within a specific date range.
+
+## Training Approach
+
+This project was completed through practical exercises and progressive challenges, focusing on writing and understanding the code independently before reviewing the results.
+
+---
+
+**Project Type:** Pandas Practice  
+**Focus:** Data Slicing and Indexing  
+**Status:** Completed
