@@ -1,0 +1,37 @@
+date;city;category;product;units_sold;revenue_mad;cost_mad;avg_temperature_c
+05/01/2025;Tangier;Electronics;Headphones;8;6400;4000;18
+12/01/2025;Tangier;Furniture;Office Chair;3;4500;2850;17
+19/01/2025;Casablanca;Electronics;Keyboard;12;3600;2160;16
+03/02/2025;Rabat;Clothing;Jacket;7;5600;3500;15
+11/02/2025;Tangier;Clothing;Shoes;5;3750;2250;19
+20/02/2025;Casablanca;Furniture;Desk;2;5000;3200;18
+04/03/2025;Marrakech;Electronics;Monitor;4;7200;5200;22
+15/03/2025;Rabat;Furniture;Office Chair;6;9000;5700;20
+27/03/2025;Tangier;Electronics;Keyboard;10;3000;1800;21
+02/04/2025;Casablanca;Clothing;Jacket;9;7200;4500;20
+14/04/2025;Marrakech;Furniture;Desk;3;7500;4800;25
+26/04/2025;Rabat;Electronics;Headphones;6;4800;3000;23
+06/05/2025;Tangier;Furniture;Desk;4;10000;6400;24
+18/05/2025;Casablanca;Electronics;Monitor;5;9000;6500;22
+29/05/2025;Marrakech;Clothing;Shoes;8;6000;3600;29
+07/06/2025;Rabat;Clothing;Jacket;4;3200;2000;27
+16/06/2025;Tangier;Electronics;Monitor;3;5400;3900;28
+28/06/2025;Casablanca;Furniture;Office Chair;5;7500;4750;26
+03/07/2025;Marrakech;Electronics;Keyboard;15;4500;2700;31
+17/07/2025;Rabat;Furniture;Desk;2;5000;3200;30
+25/07/2025;Tangier;Clothing;Jacket;6;4800;3000;32
+08/08/2025;Casablanca;Clothing;Shoes;7;5250;3150;31
+19/08/2025;Marrakech;Furniture;Office Chair;4;6000;3800;34
+30/08/2025;Rabat;Electronics;Monitor;2;3600;2600;33
+05/09/2025;Tangier;Electronics;Headphones;11;8800;5500;29
+16/09/2025;Casablanca;Furniture;Desk;4;10000;6400;27
+28/09/2025;Marrakech;Clothing;Jacket;5;4000;2500;30
+09/10/2025;Rabat;Electronics;Keyboard;9;2700;1620;24
+21/10/2025;Tangier;Furniture;Office Chair;7;10500;6650;23
+04/11/2025;Casablanca;Electronics;Headphones;5;4000;2500;19
+15/11/2025;Marrakech;Clothing;Shoes;6;4500;2700;18
+27/11/2025;Rabat;Furniture;Desk;3;7500;4800;16
+06/12/2025;Tangier;Clothing;Shoes;9;6750;4050;14
+18/12/2025;Casablanca;Electronics;Monitor;3;5400;3900;13
+29/12/2025;Marrakech;Furniture;Desk;5;12500;8000;12
+;;;;;;;
